@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you! josh
+I am currently attending the University of Mary Washington trying to obtain my degree in computer science.
+Blah Blah Blah
 
 ### More Information
 
