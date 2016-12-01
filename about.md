@@ -19,7 +19,7 @@ I always knew that computers were a really big thing in today's society and that
 people were telling me I should try out. Now that I have taken a few courses I believe that I made the right choice.
 
 * In the end, I don't know if programming is the route for me, but it is definitely a great thing to have to lean on.
-* I feel as though I will probably end up going down the networking career path.
+* I feel as though I will probably end up going more down the 'computer networking' career path.
 
 ### Random Facts
 
