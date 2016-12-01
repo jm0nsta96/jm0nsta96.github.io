@@ -6,6 +6,11 @@ permalink: /about/
 
 I am currently attending the University of Mary Washington trying to obtain my degree in computer science. 
 
+### My personal life
+
+* I am a middle child of four children - one brother and two sisters.
+* I am a first generation college student.
+
 ### How I chose computer science
 
 Although I have been at Mary Washington for 3 years, I feel as though I am still very new to the computer science world... 
@@ -15,9 +20,12 @@ people were...
 
 ### Random Facts
 
-* I really enjoy sports. 
-* Especially basketball and football. 
+* I really enjoy sports - Especially basketball and football. 
 * If I had to choose one though it would definitely be basketball.
+* I am a huge Dallas Cowboys fan
+* I am also a lifetime Cleveland Cavaliers fan (not just a Lebron fan)
+* I am also a Texas Longhorns fan for all college sports.
+* I enjoy playing video games and watching sports.
 
 ### Contact me
 
