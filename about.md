@@ -15,8 +15,10 @@ I am currently attending the University of Mary Washington trying to obtain my d
 
 Although I have been at Mary Washington for 3 years, I feel as though I am still very new to the computer science world... 
 I started off wanting to be an architectural engineer all throughout high school, but once I took an architectural class during my senior year I realized that probably wasn't going to be the best choice for me.
-I always knew that computers were a really big thing in today's society and that computer science or something very similar was what many
-people were...
+I always knew that computers were a really big thing in today's society and that computer science or something very similar was what most
+people were telling me I should try out. Now that I have taken a few courses I believe that I made the right choice.
+* In the end, I don't know if programming is the route for me, but it is definitely a great thing to have to lean on.
+* I feel as though I will probably end up going down the networking career path.
 
 ### Random Facts
 
