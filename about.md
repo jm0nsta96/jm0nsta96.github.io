@@ -24,7 +24,14 @@ people were telling me I should try out since I am really good at math. Now that
 ### Experience
 
 * I have experience in writing in a multitude of languages.
-    * I have written...
+    * I have written code in Java, JavaScript, C++, HTML, Python, PostgreSQL, etc.
+    * I have created a few static websites and applications.
+    * I have created many different databases and written a multitude of queries to go along with them.
+    * I have worked with Flask and SocketIO.
+    * I am well versed with the terminal.
+* I have done a computer science related internship.
+    * I worked with the networking department and completed numerous tasks over a 90+ day period.
+    * I can provide more information upon request.
 
 ### Random Facts
 
