@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am currently attending the University of Mary Washington trying to obtain my degree in computer science. 
+I am currently a Junior attending the University of Mary Washington trying to obtain my degree in computer science. 
 
 ### My personal life
 
