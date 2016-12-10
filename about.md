@@ -44,4 +44,6 @@ people were telling me I should try out since I am really good at math. Now that
 
 ### Contact me
 
-[jlw8234@gmail.com](mailto:jlw8234@gmail.com)
+Personal [jlw8234@gmail.com](mailto:jlw8234@gmail.com)
+
+School [jwilli28@mail.umw.edu](mailto:jwilli28@mail.umw.edu)
