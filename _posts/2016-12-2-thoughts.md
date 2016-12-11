@@ -21,4 +21,4 @@ Although I did take my professors advice and I tried to learn HTML and Python ov
 
 ### References
 * Beighley, Lynn. Head First SQL. Beijing: O'Reilly Media, 2007. Print.
-* "Computer Science Major - 2016 Undergraduate Catalog." UMW Publications | 2016 Undergraduate Catalog. N.p., n.d. Web. 11 Dec. 2016.
+* "Computer Science Major - 2016 Undergraduate Catalog." UMW Publications - 2016 Undergraduate Catalog. N.p., n.d. Web. 11 Dec. 2016.
