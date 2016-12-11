@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am currently a Junior attending the University of Mary Washington trying to obtain my degree in computer science. 
-This blog is going to be about a few different things that I am doing in my computer science classes at UMW.
+This blog is going to be about a few different things that I am doing in my computer science classes here at UMW.
 
 ### My personal life
 
