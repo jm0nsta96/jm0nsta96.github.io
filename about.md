@@ -36,10 +36,10 @@ people were telling me I should try out since I am really good at math. Now that
 
 ### Random Facts
 
-* I really enjoy sports - Especially basketball and football. 
-* If I had to choose one though it would definitely be basketball.
-* I am a huge Dallas Cowboys fan.
-* I am also a lifetime Cleveland Cavaliers fan (not just a Lebron fan).
+* I really enjoy sports - Especially [basketball](www.nba.com) and [football](www.nfl.com). 
+* If I had to choose one though it would definitely be [basketball](https://www.youtube.com/watch?v=fZ8yCJgsF_4).
+* I am a huge [Dallas Cowboys](www.dallascowboys.com) fan.
+* I am also a lifetime [Cleveland Cavaliers](www.cavs.com) fan (not just a Lebron fan).
 * I am also a Texas Longhorns fan for all college sports.
 * I enjoy playing video games and watching sports.
 
