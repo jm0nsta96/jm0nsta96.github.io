@@ -13,6 +13,7 @@ After you quit. There is a new way to log into postgres.
 3. Here is how you log in with your new password.  
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2016-12-11 at 11.50.53 AM.png)  
 Once you have completed all of the above steps you will now be able to maneuever through postgres on your cloud9 machine with ease. You will be able to use all of your normal sql commands that you know for postgres on the client.  
+  
 Hopefully that is helpful.  
 Have a great day!
 
