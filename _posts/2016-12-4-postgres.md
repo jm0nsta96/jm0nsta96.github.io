@@ -5,7 +5,7 @@ title: Starting PostgreSQL on Cloud9
 
 ### PostgreSQL
 There are a few simple steps that go along with starting postgres on a cloud9 machine.  
-** You must first switch into their terminal section on cloud9.**  
+**You must first switch into their terminal section on cloud9.**  
 **THEN**
 1. You must start the server.  
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2016-12-11 at 1.47.15 AM.png)  
