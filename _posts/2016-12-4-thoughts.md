@@ -13,8 +13,9 @@ I feel as though the HTML section of this class was not too hard to understand. 
 I thought...
 
 ### SocketIO Thoughts
-I most definitely believe that the SocketIO section of this class was the most difficult part of this class. I did end up completing both parts of our main SocketIO assignment, but it was very difficult. I had trouble with the linking of the different files. Trying to connect the python with the javascript and the HTML was pretty difficult to understand, in my opinion.  
-    * If you plan on doing any SocketIO stuff in the future make sure you know what you are doing!
+I most definitely believe that the SocketIO section of this class was the most difficult part of this class. I did end up completing both parts of our main SocketIO assignment, but it was very difficult. I had trouble with the linking of the different files. Trying to connect the python with the Javascript and the HTML was pretty difficult to understand, in my opinion.  
+  
+-If you plan on doing any SocketIO stuff in the future make sure you know what you are doing!
 
 ### Overall Thoughts
 Although I did take my professors advice and I tried to learn HTML and Python over the summer. I still feel as though I struggled a lot in this class, because everything was so brand new to me and I was trying to learn so many different languages at once. Before this class I had never worked with Python, HTML, Postgres or any type of SQL Query Language, or with building websites or applications. I feel like I should have waited and taken this class after going through a few more courses here at the university, especially CPSC 348 – Web Application Development.
