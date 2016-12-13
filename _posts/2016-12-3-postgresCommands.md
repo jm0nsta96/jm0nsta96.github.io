@@ -3,7 +3,7 @@ layout: post
 title: PostgreSQL Commands
 ---
 
-PostgreSQL is a powerful, open source object-relational database system.  
+PostgreSQL is a powerful, open source object-relational database system with many great commands to go along with it.  
 
 ### PostgreSQL
 There are a few common commands in postgres that are really good to know in order to use and manipulate databases. These commands can help you a lot in the long run when it comes to trying to understand database systems.
@@ -25,6 +25,9 @@ Fourth command - Drop Database - this command drops or deletes any database that
   
 Fifth command - \? - this command is very flexible as you can see in the screenshot, but basically it is the help command. You can type in \h create and it will show you help about all of the commands that start with create in PostgreSQL.  
 ![_config.yml]({{ site.baseurl }}/images/9.png)  
+  
+Hopefully this was helpful.  
+Have fun coding!
 
 ### Conclusion
 PostgreSQL is very reliable tool in terms to database systems in my opinion, but it can also be a bit tricky so knowing some of the above commands can help you a lot in the long run of trying to understand postgreSQL and database systems in general.  
