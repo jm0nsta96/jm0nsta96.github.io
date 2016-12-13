@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My takeaways from my _Application of Databases_ class here at UMW
+title: My takeaways from my Application of Databases class here at UMW
 ---
 
 ### PostgreSQL Thoughts
