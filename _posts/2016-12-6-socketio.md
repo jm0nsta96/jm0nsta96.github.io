@@ -4,6 +4,7 @@ title: Starting AngularJS and Flask-SocketIO
 ---
 
 SocketIO was by far the hardest rudiment/project that we had to do for my Application of Databases class here at UMW. This rudiment was all about creating a chatroom and being able to broadcast to different people who are logged in to your chatroom.  
+  
 There is a lot more that comes along with SocketIO coding, but I just wanted to use this blog post as a chance to help get you started.
 
 ### SocketIO Setup
