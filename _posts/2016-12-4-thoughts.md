@@ -10,12 +10,13 @@ I feel as though the postgres section of this class, and the majority of the sql
 I feel as though the HTML section of this class was not too hard to understand. There is a lot of information on the internet about HTML and I found [Google Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html%20help) to be very helpful throughout the entire semester.
 
 ### Python Thoughts
-I thought...
+I thought that the Python in this class was not that bad. I still struggled a bit, because even though I tried to learn Python over the summer all I had down were the basics - syntax, if's and else's, etc. Although I would recommend to everyone trying to learn from this site that one of my co-workers recommended to me over the summer. The site was amazing and I feel as though I really learned a lot.  
+Please try [Coursera](http://www.coursera.org).
 
 ### SocketIO Thoughts
 I most definitely believe that the SocketIO section of this class was the most difficult part of this class. I did end up completing both parts of our main SocketIO assignment, but it was very difficult. I had trouble with the linking of the different files. Trying to connect the python with the Javascript and the HTML was pretty difficult to understand, in my opinion.  
   
--If you plan on doing any SocketIO stuff in the future make sure you know what you are doing!
+**If you plan on doing any SocketIO stuff in the future make sure you know what you are doing!**
 
 ### Overall Thoughts
 Although I did take my professors advice and I tried to learn HTML and Python over the summer. I still feel as though I struggled a lot in this class, because everything was so brand new to me and I was trying to learn so many different languages at once. Before this class I had never worked with Python, HTML, Postgres or any type of SQL Query Language, or with building websites or applications. I feel like I should have waited and taken this class after going through a few more courses here at the university, especially CPSC 348 – Web Application Development.
