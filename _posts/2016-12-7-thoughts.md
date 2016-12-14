@@ -10,7 +10,7 @@ I feel as though the Postgres section of this class, and the majority of the SQL
 I feel as though the HTML section of this class was not too hard to understand. There is a lot of information on the internet about HTML and I found [Google Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html%20help) to be very helpful throughout the entire semester.
 
 ### Python Thoughts
-I thought that the Python in this class was not that bad. I still struggled a bit, because even though I tried to learn Python over the summer all I had down were the basics - syntax, if's and else's, etc. Although, I would like to recommend to everyone trying to learn to check out this site that one of my co-workers recommended to me over the summer. The site was amazing and I feel as though I really learned a lot.  
+I thought that the Python in this class was not that bad. I still struggled a bit, because even though I tried to learn Python over the summer all I had down were the basics - syntax, if's and else's, etc. Although, I would like to recommend to everyone trying to learn Python to check out this site that one of my co-workers recommended to me over the summer. The site was amazing and I feel as though I really learned a lot.  
 Please try [Coursera](http://www.coursera.org). This site offers different classes for many different areas. All you have to do is search what you are looking for.
 
 ### SocketIO Thoughts
