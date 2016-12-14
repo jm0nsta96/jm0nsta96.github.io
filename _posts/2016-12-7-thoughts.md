@@ -18,7 +18,7 @@ I most definitely believe that the SocketIO section of this class was the most d
 **If you plan on doing any SocketIO stuff in the future make sure you know what you are doing!**
 
 ### Overall Thoughts
-Although I did take my professors advice and I tried to learn HTML and Python over the summer. I still feel as though I struggled a lot in this class, because everything was so brand new to me and I was trying to learn so many different languages at once. Before this class I had never worked with Python, HTML, Postgres or any type of SQL Query Language, or with building websites or applications. I feel like I should have waited and taken this class after going through a few more courses here at the university, especially CPSC 348 – Web Application Development.
+Although I did take my professor's advice and I tried to learn HTML and Python over the summer. I still feel as though I struggled a lot in this class, because everything was so brand new to me and I was trying to learn so many different languages at once. Before this class I had never worked with Python, HTML, Postgres or any type of SQL Query Language, or with building websites or applications. I feel like I should have waited and taken this class after going through a few more courses here at the university, especially CPSC 348 – Web Application Development.
 
 ### References
 * Beighley, Lynn. Head First SQL. Beijing: O'Reilly Media, 2007. Print.
