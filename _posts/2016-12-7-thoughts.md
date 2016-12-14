@@ -4,13 +4,13 @@ title: My takeaways from my Application of Databases class here at UMW
 ---
 
 ### PostgreSQL Thoughts
-I feel as though the Postgres section of this class, and the majority of the SQL topics that we worked on were pretty easy. I also feel that the syntax for Postgres was really easy to understand and learn. I think that the book, Head First SQL, was very well written and it was the perfect book for us beginners to learn from. Overall, I really enjoyed the Postgres section of this class and trying to come up with different queries to help solve the different databases questions that our professor gave us.
+I feel as though the Postgres section of this class, and the majority of the SQL topics that we worked on were quite easy. I also feel that the syntax for Postgres was easy to understand and learn. I think that the book, Head First SQL, was very well written and it was the perfect book for us beginners to learn from. Overall, I really enjoyed the Postgres section of this class and trying to come up with different queries to help solve the different databases questions that our professor gave us.
 
 ### HTML Thoughts
 I feel as though the HTML section of this class was not too hard to understand. There is a lot of information on the internet about HTML and I found [Google Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html%20help) to be very helpful throughout the entire semester.
 
 ### Python Thoughts
-I thought that the Python in this class was not that bad. I still struggled a bit, because even though I tried to learn Python over the summer all I had down were the basics - syntax, if's and else's, etc. Although I would recommend to everyone trying to learn from this site that one of my co-workers recommended to me over the summer. The site was amazing and I feel as though I really learned a lot.  
+I thought that the Python in this class was not that bad. I still struggled a bit, because even though I tried to learn Python over the summer all I had down were the basics - syntax, if's and else's, etc. Although, I would like to recommend to everyone trying to learn to check out this site that one of my co-workers recommended to me over the summer. The site was amazing and I feel as though I really learned a lot.  
 Please try [Coursera](http://www.coursera.org). This site offers different classes for many different areas. All you have to do is search what you are looking for.
 
 ### SocketIO Thoughts
